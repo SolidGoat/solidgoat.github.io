@@ -1,6 +1,6 @@
 ---
 title: HackTheBox - SwagShop
-author: SolidGoat
+author: solidgoat
 date: 2022-10-11 11:33:00 +0800
 categories: [HackTheBox, Machines]
 tags: [linux, ctf, hackthebox, htb, walkthrough]
@@ -98,7 +98,7 @@ Directory and file search using `gobuster` reveals some interesting files.
 /.htc                 (Status: 403) [Size: 291]
 ```
 
-Interesting file from the results:
+Interesting files from the results:
 * `index.php`
 * `RELEASE_NOTES.txt`
 * `api.php`
