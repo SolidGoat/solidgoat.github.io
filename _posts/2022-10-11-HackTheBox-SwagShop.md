@@ -3,7 +3,7 @@ title: HackTheBox - SwagShop
 author: solidgoat
 date: 2022-10-11 11:33:00 +0800
 categories: [HackTheBox, Machines]
-tags: [linux, ctf, hackthebox, htb, walkthrough]
+tags: [linux, ctf, hackthebox, htb, walkthrough, easy, magento, cve exploitation, sudo exploitation, rce, remote code execution]
 image:
   path: /assets/img/posts/SwagShop/htb-swagshop-logo.png
   width: 800
